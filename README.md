@@ -17,4 +17,5 @@ Repository ini berisi kumpulan latihan, tugas, dan project mata kuliah **Dasar P
 
 - Email: ryanalinputraa@gmail.com
 - LinkedIn: [ryanalinputra](https://linkedin.com/in/ryanalinputra)
+- Instagram: [@ryanalinputra](https://instagram.com/ryanalinputra)
 - GitHub: [@ryanalinputra](https://github.com/ryanalinputra)
