@@ -30,34 +30,3 @@ contoh_complex6 = complex (3e+123J)
 contoh_complex7 = complex (4.31e-4j)
 
 print(contoh_complex1, contoh_complex2, contoh_complex3, contoh_complex4, contoh_complex5, contoh_complex6, contoh_complex7)
-
-# Tugas Biodata Cek Variable
-nama = "Ryan Alin Putra"
-alamat = "Dsn.Sumbersari RT03/RW06 Ds.Datengan Kec.Grogol Kab.Kediri"
-usia = 19
-no_hp = 6282140078266
-jurusan = "D3-Manajemen Informatika"
-
-print(
-    nama, (type(nama)), "\n",
-    alamat, (type(alamat)), "\n",
-    usia, (type(usia)), "\n",
-    no_hp, (type(no_hp)), "\n",
-    jurusan, (type(jurusan)), "\n"
-)
-
-#Tugas Biodata I/O
-nama = str(input("Nama    : "))
-alamat = str(input("Alamat  : "))
-usia = int(input("Usia    : "))
-no_hp = int(input("No Hp   : "))
-jurusan = str(input("Jurusan : "))
-
-print(
-    "\n<---Biodata--->\n",
-    "Nama    : ", nama, "\n",
-    "Alamat  : ", alamat, "\n",
-    "Usia    : ", usia, "\n",
-    "No HP   : ", no_hp, "\n",
-    "Jurusan : ", jurusan
-)
